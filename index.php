@@ -27,6 +27,8 @@
   <link href="assets/css/syscoin.css" rel="stylesheet" type="text/css" />
 </head>
 
+
+<!-- Inicio Body -->
 <body class="bg_login">
 
 <section class="preload">
